@@ -1,5 +1,5 @@
 ---
-name: "(PL) Zgłoś błąd"
+name: PL Zgłoś błąd
 about: Stwórz raport błędu
 title: ''
 labels: bug

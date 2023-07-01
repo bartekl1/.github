@@ -1,5 +1,5 @@
 ---
-name: "(PL) Nowa funkcja"
+name: PL Nowa funkcja
 about: Zaproponuj nową funkcję
 title: ''
 labels: enhancement
